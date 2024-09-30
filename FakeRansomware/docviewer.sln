@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docviewer", "docviewer.csproj", "{0027C4C0-A975-46CE-AB7F-D7DB4C99486D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0027C4C0-A975-46CE-AB7F-D7DB4C99486D}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{0027C4C0-A975-46CE-AB7F-D7DB4C99486D}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{0027C4C0-A975-46CE-AB7F-D7DB4C99486D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0027C4C0-A975-46CE-AB7F-D7DB4C99486D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB020F5F-9E79-43AE-AF28-DBF74D7C2324}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\Sedat\source\repos\FakeRansomware\bin\Release\net8.0-windows\docviewer.exe
+C:\Users\Sedat\source\repos\FakeRansomware\bin\Release\net8.0-windows\docviewer.dll
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Release\net8.0-windows\FakeRansomware.Form1.resources
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Release\net8.0-windows\docviewer.Properties.Resources.resources
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Release\net8.0-windows\docviewer.csproj.GenerateResource.cache
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Release\net8.0-windows\docviewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Release\net8.0-windows\docviewer.AssemblyInfoInputs.cache
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Release\net8.0-windows\docviewer.AssemblyInfo.cs
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Release\net8.0-windows\docviewer.csproj.CoreCompileInputs.cache
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Release\net8.0-windows\docviewer.dll
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Release\net8.0-windows\refint\docviewer.dll
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Release\net8.0-windows\docviewer.pdb
+C:\Users\Sedat\source\repos\FakeRansomware\bin\Release\net8.0-windows\docviewer.deps.json
+C:\Users\Sedat\source\repos\FakeRansomware\bin\Release\net8.0-windows\docviewer.runtimeconfig.json
+C:\Users\Sedat\source\repos\FakeRansomware\bin\Release\net8.0-windows\docviewer.pdb
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Release\net8.0-windows\docviewer.genruntimeconfig.cache
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Release\net8.0-windows\ref\docviewer.dll

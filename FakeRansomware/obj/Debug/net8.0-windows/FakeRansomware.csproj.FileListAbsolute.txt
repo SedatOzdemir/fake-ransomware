@@ -1,0 +1,17 @@
+C:\Users\Sedat\source\repos\FakeRansomware\bin\Debug\net8.0-windows\FakeRansomware.exe
+C:\Users\Sedat\source\repos\FakeRansomware\bin\Debug\net8.0-windows\FakeRansomware.deps.json
+C:\Users\Sedat\source\repos\FakeRansomware\bin\Debug\net8.0-windows\FakeRansomware.runtimeconfig.json
+C:\Users\Sedat\source\repos\FakeRansomware\bin\Debug\net8.0-windows\FakeRansomware.dll
+C:\Users\Sedat\source\repos\FakeRansomware\bin\Debug\net8.0-windows\FakeRansomware.pdb
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Debug\net8.0-windows\FakeRansomware.Form1.resources
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Debug\net8.0-windows\FakeRansomware.csproj.GenerateResource.cache
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Debug\net8.0-windows\FakeRansomware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Debug\net8.0-windows\FakeRansomware.AssemblyInfoInputs.cache
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Debug\net8.0-windows\FakeRansomware.AssemblyInfo.cs
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Debug\net8.0-windows\FakeRansomware.csproj.CoreCompileInputs.cache
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Debug\net8.0-windows\FakeRansomware.dll
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Debug\net8.0-windows\refint\FakeRansomware.dll
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Debug\net8.0-windows\FakeRansomware.pdb
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Debug\net8.0-windows\FakeRansomware.genruntimeconfig.cache
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Debug\net8.0-windows\ref\FakeRansomware.dll
+C:\Users\Sedat\source\repos\FakeRansomware\obj\Debug\net8.0-windows\FakeRansomware.Properties.Resources.resources
